@@ -40,4 +40,44 @@ The analysis covers 13 project tasks, from data validation and modeling to produ
 
 ## Dashboard Preview
 
-Screenshots of the dashboard and key report pages are included below.
+Screenshots of the dashboard and key report pages are included below:
+
+### Executive Dashboard
+
+![Executive Dashboard](docs/screenshots/dashboard.png)
+
+### Product Performance
+
+![Product Performance](docs/screenshots/product_performance_analysis.png)
+
+### Customer Segment Analysis
+
+![Customer Segment Analysis](docs/screenshots/customer_segment.png)
+
+### Warehouse Performance
+
+![Warehouse Performance](docs/screenshots/warehouse_performance.png)
+
+### Supplier Performance
+
+![Supplier Performance](docs/screenshots/supplier_performance.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](docs/screenshots/monthly_sales_trend.png)
+
+### Discount Analysis
+
+![Discount Analysis](docs/screenshots/discount_analysis.png)
+
+### Delivery Performance
+
+![Delivery Performance](docs/screenshots/delivery_performance.png)
+
+### Return Analysis
+
+![Return Analysis](docs/screenshots/return_analysis.png)
+
+### Product Details
+
+![Product Details](docs/screenshots/product_detail.png)
