@@ -1,0 +1,151 @@
+CustomerID,CustomerName,Segment,City,State,Region
+C001,Customer 1,Retail,Chennai,Tamil Nadu,South
+C002,Customer 2,Corporate,Chennai,Tamil Nadu,South
+C003,Customer 3,Retail,Bengaluru,Karnataka,South
+C004,Customer 4,Wholesale,Pune,Maharashtra,West
+C005,Customer 5,Corporate,Kolkata,West Bengal,East
+C006,Customer 6,Corporate,Kolkata,West Bengal,East
+C007,Customer 7,Wholesale,Chennai,Tamil Nadu,South
+C008,Customer 8,Wholesale,Mumbai,Maharashtra,West
+C009,Customer 9,Retail,Pune,Maharashtra,West
+C010,Customer 10,Wholesale,Kolkata,West Bengal,East
+C011,Customer 11,Retail,Ahmedabad,Gujarat,West
+C012,Customer 12,Retail,Bengaluru,Karnataka,South
+C013,Customer 13,Wholesale,Bengaluru,Karnataka,South
+C014,Customer 14,Retail,Chennai,Tamil Nadu,South
+C015,Customer 15,Retail,Kolkata,West Bengal,East
+C016,Customer 16,Corporate,Hyderabad,Telangana,South
+C017,Customer 17,Retail,Bengaluru,Karnataka,South
+C018,Customer 18,Wholesale,Chennai,Tamil Nadu,South
+C019,Customer 19,Retail,Pune,Maharashtra,West
+C020,Customer 20,Retail,Mumbai,Maharashtra,West
+C021,Customer 21,Retail,Bengaluru,Karnataka,South
+C022,Customer 22,Corporate,Kolkata,West Bengal,East
+C023,Customer 23,Retail,Chennai,Tamil Nadu,South
+C024,Customer 24,Retail,Kolkata,West Bengal,East
+C025,Customer 25,Corporate,Delhi,Delhi,North
+C026,Customer 26,Corporate,Mumbai,Maharashtra,West
+C027,Customer 27,Corporate,Hyderabad,Telangana,South
+C028,Customer 28,Corporate,Hyderabad,Telangana,South
+C029,Customer 29,Retail,Chennai,Tamil Nadu,South
+C030,Customer 30,Corporate,Bengaluru,Karnataka,South
+C031,Customer 31,Retail,Bengaluru,Karnataka,South
+C032,Customer 32,Wholesale,Mumbai,Maharashtra,West
+C033,Customer 33,Retail,Ahmedabad,Gujarat,West
+C034,Customer 34,Wholesale,Mumbai,Maharashtra,West
+C035,Customer 35,Wholesale,Chennai,Tamil Nadu,South
+C036,Customer 36,Retail,Delhi,Delhi,North
+C037,Customer 37,Retail,Pune,Maharashtra,West
+C038,Customer 38,Wholesale,Pune,Maharashtra,West
+C039,Customer 39,Wholesale,Pune,Maharashtra,West
+C040,Customer 40,Corporate,Bengaluru,Karnataka,South
+C041,Customer 41,Wholesale,Pune,Maharashtra,West
+C042,Customer 42,Wholesale,Bengaluru,Karnataka,South
+C043,Customer 43,Wholesale,Mumbai,Maharashtra,West
+C044,Customer 44,Corporate,Pune,Maharashtra,West
+C045,Customer 45,Corporate,Ahmedabad,Gujarat,West
+C046,Customer 46,Wholesale,Bengaluru,Karnataka,South
+C047,Customer 47,Retail,Ahmedabad,Gujarat,West
+C048,Customer 48,Corporate,Hyderabad,Telangana,South
+C049,Customer 49,Wholesale,Delhi,Delhi,North
+C050,Customer 50,Corporate,Hyderabad,Telangana,South
+C051,Customer 51,Retail,Ahmedabad,Gujarat,West
+C052,Customer 52,Corporate,Mumbai,Maharashtra,West
+C053,Customer 53,Retail,Pune,Maharashtra,West
+C054,Customer 54,Wholesale,Bengaluru,Karnataka,South
+C055,Customer 55,Retail,Hyderabad,Telangana,South
+C056,Customer 56,Retail,Ahmedabad,Gujarat,West
+C057,Customer 57,Corporate,Bengaluru,Karnataka,South
+C058,Customer 58,Retail,Hyderabad,Telangana,South
+C059,Customer 59,Wholesale,Chennai,Tamil Nadu,South
+C060,Customer 60,Wholesale,Hyderabad,Telangana,South
+C061,Customer 61,Wholesale,Mumbai,Maharashtra,West
+C062,Customer 62,Wholesale,Hyderabad,Telangana,South
+C063,Customer 63,Retail,Pune,Maharashtra,West
+C064,Customer 64,Retail,Hyderabad,Telangana,South
+C065,Customer 65,Wholesale,Pune,Maharashtra,West
+C066,Customer 66,Corporate,Delhi,Delhi,North
+C067,Customer 67,Wholesale,Hyderabad,Telangana,South
+C068,Customer 68,Wholesale,Bengaluru,Karnataka,South
+C069,Customer 69,Retail,Ahmedabad,Gujarat,West
+C070,Customer 70,Wholesale,Hyderabad,Telangana,South
+C071,Customer 71,Corporate,Chennai,Tamil Nadu,South
+C072,Customer 72,Retail,Mumbai,Maharashtra,West
+C073,Customer 73,Corporate,Kolkata,West Bengal,East
+C074,Customer 74,Retail,Mumbai,Maharashtra,West
+C075,Customer 75,Retail,Ahmedabad,Gujarat,West
+C076,Customer 76,Retail,Hyderabad,Telangana,South
+C077,Customer 77,Wholesale,Chennai,Tamil Nadu,South
+C078,Customer 78,Wholesale,Kolkata,West Bengal,East
+C079,Customer 79,Retail,Mumbai,Maharashtra,West
+C080,Customer 80,Wholesale,Pune,Maharashtra,West
+C081,Customer 81,Wholesale,Delhi,Delhi,North
+C082,Customer 82,Corporate,Mumbai,Maharashtra,West
+C083,Customer 83,Corporate,Delhi,Delhi,North
+C084,Customer 84,Retail,Delhi,Delhi,North
+C085,Customer 85,Corporate,Hyderabad,Telangana,South
+C086,Customer 86,Corporate,Mumbai,Maharashtra,West
+C087,Customer 87,Wholesale,Bengaluru,Karnataka,South
+C088,Customer 88,Wholesale,Bengaluru,Karnataka,South
+C089,Customer 89,Corporate,Pune,Maharashtra,West
+C090,Customer 90,Wholesale,Kolkata,West Bengal,East
+C091,Customer 91,Retail,Delhi,Delhi,North
+C092,Customer 92,Retail,Delhi,Delhi,North
+C093,Customer 93,Retail,Kolkata,West Bengal,East
+C094,Customer 94,Wholesale,Delhi,Delhi,North
+C095,Customer 95,Corporate,Ahmedabad,Gujarat,West
+C096,Customer 96,Corporate,Bengaluru,Karnataka,South
+C097,Customer 97,Wholesale,Delhi,Delhi,North
+C098,Customer 98,Corporate,Pune,Maharashtra,West
+C099,Customer 99,Corporate,Mumbai,Maharashtra,West
+C100,Customer 100,Retail,Bengaluru,Karnataka,South
+C101,Customer 101,Corporate,Chennai,Tamil Nadu,South
+C102,Customer 102,Retail,Hyderabad,Telangana,South
+C103,Customer 103,Retail,Bengaluru,Karnataka,South
+C104,Customer 104,Corporate,Bengaluru,Karnataka,South
+C105,Customer 105,Corporate,Ahmedabad,Gujarat,West
+C106,Customer 106,Corporate,Pune,Maharashtra,West
+C107,Customer 107,Wholesale,Ahmedabad,Gujarat,West
+C108,Customer 108,Wholesale,Kolkata,West Bengal,East
+C109,Customer 109,Retail,Ahmedabad,Gujarat,West
+C110,Customer 110,Corporate,Pune,Maharashtra,West
+C111,Customer 111,Wholesale,Delhi,Delhi,North
+C112,Customer 112,Retail,Hyderabad,Telangana,South
+C113,Customer 113,Wholesale,Pune,Maharashtra,West
+C114,Customer 114,Corporate,Kolkata,West Bengal,East
+C115,Customer 115,Corporate,Ahmedabad,Gujarat,West
+C116,Customer 116,Corporate,Pune,Maharashtra,West
+C117,Customer 117,Corporate,Bengaluru,Karnataka,South
+C118,Customer 118,Wholesale,Mumbai,Maharashtra,West
+C119,Customer 119,Retail,Kolkata,West Bengal,East
+C120,Customer 120,Corporate,Bengaluru,Karnataka,South
+C121,Customer 121,Retail,Kolkata,West Bengal,East
+C122,Customer 122,Wholesale,Ahmedabad,Gujarat,West
+C123,Customer 123,Wholesale,Ahmedabad,Gujarat,West
+C124,Customer 124,Wholesale,Pune,Maharashtra,West
+C125,Customer 125,Wholesale,Hyderabad,Telangana,South
+C126,Customer 126,Wholesale,Hyderabad,Telangana,South
+C127,Customer 127,Corporate,Kolkata,West Bengal,East
+C128,Customer 128,Wholesale,Kolkata,West Bengal,East
+C129,Customer 129,Wholesale,Hyderabad,Telangana,South
+C130,Customer 130,Retail,Delhi,Delhi,North
+C131,Customer 131,Wholesale,Kolkata,West Bengal,East
+C132,Customer 132,Wholesale,Kolkata,West Bengal,East
+C133,Customer 133,Wholesale,Delhi,Delhi,North
+C134,Customer 134,Corporate,Hyderabad,Telangana,South
+C135,Customer 135,Corporate,Mumbai,Maharashtra,West
+C136,Customer 136,Retail,Hyderabad,Telangana,South
+C137,Customer 137,Wholesale,Kolkata,West Bengal,East
+C138,Customer 138,Corporate,Ahmedabad,Gujarat,West
+C139,Customer 139,Corporate,Chennai,Tamil Nadu,South
+C140,Customer 140,Wholesale,Bengaluru,Karnataka,South
+C141,Customer 141,Wholesale,Chennai,Tamil Nadu,South
+C142,Customer 142,Wholesale,Delhi,Delhi,North
+C143,Customer 143,Corporate,Pune,Maharashtra,West
+C144,Customer 144,Retail,Ahmedabad,Gujarat,West
+C145,Customer 145,Wholesale,Bengaluru,Karnataka,South
+C146,Customer 146,Retail,Hyderabad,Telangana,South
+C147,Customer 147,Retail,Bengaluru,Karnataka,South
+C148,Customer 148,Retail,Mumbai,Maharashtra,West
+C149,Customer 149,Corporate,Bengaluru,Karnataka,South
+C150,Customer 150,Corporate,Pune,Maharashtra,West

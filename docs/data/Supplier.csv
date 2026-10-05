@@ -1,0 +1,16 @@
+SupplierID,SupplierName,SupplierType,Country
+S01,Supplier 1,Distributor,Vietnam
+S02,Supplier 2,Importer,India
+S03,Supplier 3,Importer,Vietnam
+S04,Supplier 4,Distributor,China
+S05,Supplier 5,Distributor,India
+S06,Supplier 6,Manufacturer,Vietnam
+S07,Supplier 7,Importer,India
+S08,Supplier 8,Manufacturer,China
+S09,Supplier 9,Manufacturer,India
+S10,Supplier 10,Importer,Vietnam
+S11,Supplier 11,Distributor,India
+S12,Supplier 12,Importer,India
+S13,Supplier 13,Manufacturer,China
+S14,Supplier 14,Manufacturer,China
+S15,Supplier 15,Importer,Vietnam

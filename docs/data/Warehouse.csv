@@ -1,0 +1,9 @@
+WarehouseID,WarehouseName,City,State,Region
+W01,Mumbai Warehouse,Mumbai,Maharashtra,West
+W02,Pune Warehouse,Pune,Maharashtra,West
+W03,Delhi Warehouse,Delhi,Delhi,North
+W04,Bengaluru Warehouse,Bengaluru,Karnataka,South
+W05,Hyderabad Warehouse,Hyderabad,Telangana,South
+W06,Ahmedabad Warehouse,Ahmedabad,Gujarat,West
+W07,Kolkata Warehouse,Kolkata,West Bengal,East
+W08,Chennai Warehouse,Chennai,Tamil Nadu,South

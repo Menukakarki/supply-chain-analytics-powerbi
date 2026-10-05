@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,UnitCost
+P001,Smart Product 1,Electronics,Orbit,2206
+P002,Ultra Product 2,Furniture,Apex,4667
+P003,Smart Product 3,Sports,Vertex,460
+P004,Smart Product 4,Electronics,Prime,2105
+P005,Max Product 5,Sports,Nova,4797
+P006,Ultra Product 6,Sports,Vertex,2005
+P007,Pro Product 7,Sports,Orbit,253
+P008,Ultra Product 8,Home Appliances,Elite,2476
+P009,Ultra Product 9,Furniture,Elite,1037
+P010,Smart Product 10,Home Appliances,Apex,3140
+P011,Eco Product 11,Sports,Orbit,555
+P012,Pro Product 12,Sports,Apex,3300
+P013,Smart Product 13,Sports,Orbit,3162
+P014,Max Product 14,Furniture,Apex,575
+P015,Ultra Product 15,Office Supplies,Apex,2107
+P016,Smart Product 16,Home Appliances,Orbit,3914
+P017,Eco Product 17,Furniture,Elite,3110
+P018,Ultra Product 18,Office Supplies,Apex,1601
+P019,Max Product 19,Furniture,Zenith,3986
+P020,Pro Product 20,Office Supplies,Prime,2856
+P021,Smart Product 21,Furniture,Nova,2784
+P022,Pro Product 22,Office Supplies,Apex,1928
+P023,Max Product 23,Office Supplies,Prime,4289
+P024,Pro Product 24,Home Appliances,Zenith,2369
+P025,Ultra Product 25,Furniture,Orbit,4988
+P026,Pro Product 26,Sports,Vertex,3165
+P027,Ultra Product 27,Furniture,Nimbus,944
+P028,Smart Product 28,Electronics,Zenith,1510
+P029,Pro Product 29,Sports,Apex,3352
+P030,Pro Product 30,Sports,Nimbus,4534
+P031,Eco Product 31,Sports,Nova,1138
+P032,Max Product 32,Office Supplies,Elite,1113
+P033,Eco Product 33,Home Appliances,Zenith,3916
+P034,Smart Product 34,Office Supplies,Zenith,4358
+P035,Smart Product 35,Office Supplies,Prime,1452
+P036,Eco Product 36,Furniture,Nova,2855
+P037,Pro Product 37,Electronics,Apex,3173
+P038,Eco Product 38,Furniture,Nova,2173
+P039,Max Product 39,Electronics,Apex,4181
+P040,Smart Product 40,Sports,Zenith,1251
+P041,Pro Product 41,Sports,Zenith,2371
+P042,Max Product 42,Sports,Vertex,1935
+P043,Max Product 43,Furniture,Orbit,3468
+P044,Eco Product 44,Home Appliances,Nimbus,1191
+P045,Ultra Product 45,Furniture,Apex,2969
+P046,Smart Product 46,Sports,Prime,2004
+P047,Smart Product 47,Electronics,Nova,2075
+P048,Smart Product 48,Electronics,Elite,780
+P049,Max Product 49,Furniture,Orbit,4176
+P050,Ultra Product 50,Sports,Zenith,4877
